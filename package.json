@@ -9,3 +9,5 @@
 		"jimp": "^0.2.28"
 	}
 }
+
+bot.login(process.env.token);
